@@ -1,5 +1,5 @@
 import NavBar from "@/Components/NavBar";
-import Sidebar from "@/Components/Sidebar/SideBar";
+import Sidebar from "@/Components/sidebar/SideBar";
 import { Link, usePage, router } from "@inertiajs/react";
 import axios from "axios";
 import { useEffect } from "react";
